@@ -16,6 +16,6 @@ Program scans directory for .pdf files, and then checks one by one, page by page
 
 ### Creating .exe file using pyinstaller:
 
-`pyinstaller --onefile pdfChangeFormat.py --name pdfFormatChange`
+`pyinstaller --onefile PdfChangeFormat.py --name PdfChangeFormat`
 
 ### Created using [PyPDF2](https://pypi.org/project/PyPDF2/)
